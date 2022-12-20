@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+    
+}
+
+.lorem{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    gap: 40px;
+    padding: 100px;
+    background-color: antiquewhite;
+    height: 1000px;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+}
+
+.lorem-text{
+    background-color: white;
+    height: 300px;
+}

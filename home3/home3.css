@@ -1,0 +1,44 @@
+
+*{
+    
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    min-width: 1300px;
+}
+
+
+body{
+    background-color: rgb(245, 245, 225);
+    position: relative;
+    top: 70px;
+    
+}
+
+.text{
+    text-align: justify;
+    font-size: 40px;
+    margin: 150px 200px;
+   
+        
+}
+
+.header{
+    font-size: 40px;
+    height: 150px;
+    text-align: center;
+    line-height: 90px;
+    background-color:rgb(231, 75, 75);
+    color: white;
+    width: 100%;
+    top: 0;
+    position: fixed;
+    
+
+}
+
+.footer{
+    height: 2000px;
+}
+
+

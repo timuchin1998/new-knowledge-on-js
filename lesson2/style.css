@@ -1,0 +1,13 @@
+.cat{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    gap: 40px;
+    padding: 100px;   
+}
+
+.cat h4,  p{
+    text-align: center;
+    text-indent: 20px;
+}
+ 

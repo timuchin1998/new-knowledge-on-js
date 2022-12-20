@@ -1,0 +1,96 @@
+/* способ номер 1 */
+body{
+    background-image: url(family.png);
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    text-align: center;
+    background-size: cover;
+    background-attachment: scroll ;
+    
+}
+
+.img-text{
+    background-size: cover;
+    background-attachment: scroll ;
+}
+
+.text-white{
+    line-height: 2px;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.text-uppercase{
+    font-size: 20px; 
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+.text-red {
+    text-transform: uppercase;
+    background: #BC6F65;
+    font-size: 20px;
+    margin: 0 650px;
+    height: 25px;
+    line-height: 25px;
+    
+}
+
+
+.font-style{
+    font-style: italic;
+    color: #000000;
+    font-size: 15px;
+}
+
+.join{
+    text-decoration: line-through;
+    font-size: 20px; 
+} 
+
+ 
+
+/* 
+способ номер 2 
+body{
+    background-image: url(family.png);
+    font-family: 'Times New Roman', Times, serif;
+    background-size: cover;
+    background-attachment: scroll
+
+}
+
+.text{
+    display: flex;
+    text-align: center;
+    flex-flow: column;
+    
+    color: white;
+    
+}
+
+
+.text h3, p{
+    text-transform: uppercase;
+}
+
+.text-red{
+    background-color: #BC6F65;
+    margin: 0 650px;
+    height: 25px;
+    line-height: 25px;
+    
+}
+
+.text-italy{
+    color: black;
+    font-style: italic;
+    color: #000000;
+    font-size: 15px; 
+}
+
+.join{
+    text-decoration: line-through;
+    font-size: 20px;
+     
+}  */
